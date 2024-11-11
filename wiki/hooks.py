@@ -29,12 +29,12 @@ website_route_rules = [
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/wiki/css/wiki.css"
-# app_include_js = "/assets/wiki/js/wiki.js"
+app_include_css = "dkc/assets/wiki/css/wiki.css"
+app_include_js = "dkc/assets/wiki/js/wiki.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/wiki/css/wiki.css"
-# web_include_js = "/assets/wiki/js/wiki.js"
+web_include_css = "dkc/assets/wiki/css/wiki.css"
+web_include_js = "dkc/assets/wiki/js/wiki.js"
 
 # include custom scss in every website theme (without file extension ".scss")
 # website_theme_scss = "wiki/public/scss/website"
